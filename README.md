@@ -4,7 +4,7 @@
 
 ***only education perpose***
 The indicator alert based on JayRogers "Open Close Cross Strategy R2" 
-This indicator alert created for TradingView alarm sub-system (via the alertcondition() function, which currently does not work in a "Strategy" script). Also this indicator plots the Difference Factor between the Close and Open Moving Averages, this gives a good indication of strength of move. Also included in this release is optional Divergence finder with variable width channel.
+This indicator alert created for TradingView alarm sub-system. Also this indicator plots the Difference Factor between the Close and Open Moving Averages, this gives a good indication of strength of move. Also included in this release is optional Divergence finder with variable width channel.
 
 Backtest Report
 
