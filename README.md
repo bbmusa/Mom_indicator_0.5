@@ -1,4 +1,4 @@
-# Mom_indicator_0.5 "momentom"
+# Mom_indicator_0.5 "momentum"
 
 <img src="image.png" alt="Employee data" title="Employee Data title">
 
