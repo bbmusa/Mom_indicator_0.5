@@ -24,7 +24,7 @@ study(title="mom by sardarkhan", shorttitle="mom0.4", overlay=false)
 //  - Added TMA and SSMA moving average options. But DEMA is still giving the best results.
 //  - Updated Default settings.
 //
-// R4 Changes (by MrSardarKhan):
+// R4 Changes:
 //  - Change Alert indication to coloured circle at bottom.
 //  - Added Histogram of difference between close and open MAs as a factor of average asset MA value. 
 //
